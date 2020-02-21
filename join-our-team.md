@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Des Moines Careers
 permalink: /join-our-team/
 ---
 
