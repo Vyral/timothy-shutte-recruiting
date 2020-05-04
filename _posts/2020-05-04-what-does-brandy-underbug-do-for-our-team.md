@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   Brandy Underbug has progressed more in this last year than she ever imagined
   she could at any other brokerage.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/What+Does+Brandy+Underbug+Do+for+Our+Team_.mp4
 pullquote: >-
   Our team’s culture has been progressive and ever-changing, and Brandy’s
   experience with that culture has been nothing but positive.
@@ -20,7 +20,7 @@ youtube_code: QUhz6CXaYAM
 
 {% include youtube.html %}
 
-Brandy Underbug has progressed more in this last year than she ever imagined she could at any other brokerage.&nbsp;
+<p style="text-align: center;"><em>Brandy Underbug has progressed more in this last year than she ever imagined she could at any other brokerage.</em></p>
 
 Brandy Underbug has been with our team as a Realtor for about six months. We’re proud to have her aboard, and today she joins me for a quick interview.&nbsp;
 
