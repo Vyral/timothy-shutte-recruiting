@@ -1,11 +1,11 @@
 ---
 layout: post
-title: What Does Brandy Underbug Do for Our Team?
+title: What Does Brandy Underberg Do for Our Team?
 date: 2020-05-04 20:46:09
 tags:
   - Reviews and Referrals
 excerpt: >-
-  Brandy Underbug has progressed more in this last year than she ever imagined
+  Brandy Underberg has progressed more in this last year than she ever imagined
   she could at any other brokerage.
 enclosure: https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/What+Does+Brandy+Underbug+Do+for+Our+Team_.mp4
 pullquote: >-
@@ -20,9 +20,9 @@ youtube_code: QUhz6CXaYAM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Brandy Underbug has progressed more in this last year than she ever imagined she could at any other brokerage.</em></p>
+<p style="text-align: center;"><em>Brandy Underberg has progressed more in this last year than she ever imagined she could at any other brokerage.</em></p>
 
-Brandy Underbug has been with our team as a Realtor for about six months. We’re proud to have her aboard, and today she joins me for a quick interview.&nbsp;
+Brandy Underberg has been with our team as a Realtor for about six months. We’re proud to have her aboard, and today she joins me for a quick interview.&nbsp;
 
 **What Brandy likes most about working here is the team environment.** Everyone in our office is willing to build each other up and help each other out. If anyone has questions or ideas they’d like to bounce off someone else, there’s always someone available.&nbsp;
 
