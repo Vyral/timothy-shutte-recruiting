@@ -28,11 +28,11 @@ Brandy Underbug has been with our team as a Realtor for about six months. We’r
 
 Our onboarding process was different than Brandy’s previous experiences in that she learned many different prospecting techniques and progressive time blocking information. She also learned a lot of good things about statistics, the best times to call people, and how often to call them.&nbsp;
 
+{% include pullquote.html %}
+
 This has greatly benefited her career because **all of this training and prospecting has provided her with numerous leads.** In just six months, she’s already handled several transactions, and she says she’s progressed more in this last year than she ever imagined she could at any other brokerage.&nbsp;
 
 “There are just the right things in place here that will help you move forward and make you a good agent,” she says.&nbsp;
-
-{% include pullquote.html %}
 
 Speaking for myself, I think our team’s culture has been progressive and ever-changing, and Brandy’s experience with that culture has been nothing but positive.&nbsp;
 
