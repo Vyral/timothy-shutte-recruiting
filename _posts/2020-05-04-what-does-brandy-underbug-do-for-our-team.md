@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   Brandy Underberg has progressed more in this last year than she ever imagined
   she could at any other brokerage.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/What+Does+Brandy+Underbug+Do+for+Our+Team_.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/What+Does+Brandy+Underberg+Do+for+Our+Team_.mp4
 pullquote: >-
   Our team’s culture has been progressive and ever-changing, and Brandy’s
   experience with that culture has been nothing but positive.
