@@ -43,7 +43,7 @@ permalink: /strategy-call/
 <span class="author">Brandy Underberg</span></p>
 
 <p><span class="quote">Traditional training doesn’t work for me. I’ve found that I’ve been getting a good amount of mentoring and person-to-person interaction to where I’ve never felt lost. It seems like I can always find the right course of action no matter the situation.</span><br>
-<span class="author">Ed Pilay</span></p>
+<span class="author">Ed Pagliai</span></p>
 
 <!-- <p><span class="quote"></span><br>
 <span class="author"></span></p> -->
