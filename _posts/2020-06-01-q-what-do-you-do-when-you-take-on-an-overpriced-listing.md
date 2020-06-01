@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Do You Do When You Take on an Overpriced Listing?'
-date:
+date: 2020-06-01 21:11:28
 tags:
 excerpt: >-
   If you’ve taken on an overpriced listing, here’s how to get your client to
