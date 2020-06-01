@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   If you’ve taken on an overpriced listing, here’s how to get your client to
   agree to a price reduction.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/Q-+What+Do+You+Do+When+You+Take+on+an+Overpriced+Listing_.mp4
 pullquote: 'At the end of the day, it’s the price that sells a home.'
 enclosure_type: video/mp4
 enclosure_time:
