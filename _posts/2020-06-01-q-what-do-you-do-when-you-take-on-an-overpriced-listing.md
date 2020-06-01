@@ -18,7 +18,7 @@ youtube_code: zstu-EcOFT8
 
 {% include youtube.html %}
 
-*If you’ve taken on an overpriced listing, here’s how to get your client to agree to a price reduction.*
+<p style="text-align: center;"><em>If you’ve taken on an overpriced listing, here’s how to get your client to agree to a price reduction.</em></p>
 
 What do you do when you take on an overpriced listing?&nbsp;
 
