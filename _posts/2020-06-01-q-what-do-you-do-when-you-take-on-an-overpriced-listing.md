@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Do You Do When You Take on an Overpriced Listing?'
-date: 2020-06-01 21:11:28
+date: 2020-06-01 21:11:00
 tags:
 excerpt: >-
   If you’ve taken on an overpriced listing, here’s how to get your client to
@@ -12,13 +12,13 @@ pullquote: 'At the end of the day, it’s the price that sells a home.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/what-do-you-do-when-you-take-on-an-overpriced-listing-yt.jpg
 youtube_code: zstu-EcOFT8
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’ve taken on an overpriced listing, here’s how to get your client to agree to a price reduction.</em></p>
+*If you’ve taken on an overpriced listing, here’s how to get your client to agree to a price reduction.*
 
 What do you do when you take on an overpriced listing?&nbsp;
 
