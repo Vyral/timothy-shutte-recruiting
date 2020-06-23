@@ -16,7 +16,8 @@ youtube_code: mYVgCiZSL7E
 
 {% include youtube.html %}
 
-Today I’ll dispel some common misconceptions about becoming a Realtor in Iowa.
+ <p style="text-align: center;"><em>
+Today I’ll dispel some common misconceptions about becoming a Realtor in Iowa.</em></p>
 
 In the state of Iowa, the average Realtor salaries are compensations of about $50,000. People who come into the real estate industry often think that they’ll be making a lot of money, but that isn’t always true. The top 20% of Realtors do 80% of the business. The first two years of being a Realtor can be quite a struggle sometimes, but one of the things I love about the industry is the unlimited income potential you can have.
 
