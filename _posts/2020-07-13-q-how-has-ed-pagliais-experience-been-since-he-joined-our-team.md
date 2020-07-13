@@ -15,7 +15,7 @@ youtube_code: nxv7JVzp_Ds
 
 {% include youtube.html %}&nbsp;
 
-Ed Pagliai has had great success since joining our team two months ago.
+<p style="text-align: center;"><em>Ed Pagliai has had great success since joining our team two months ago.</em></p>
 
 Today I’m joined by the newest member of the Timothy Schutte Real Estate Team, Ed Pagliai, for a quick interview about his time as a Realtor for Exit Realty. Ed’s been plenty busy in the last two months, and he’s benefited tremendously from our guidance, tools, and resources.&nbsp;
 
