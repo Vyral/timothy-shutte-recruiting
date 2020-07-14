@@ -4,7 +4,7 @@ title: 'Q: How Has Ed Pagliai’s Experience Been Since He Joined Our Team?'
 date: 2020-07-13 22:35:07
 tags:
 excerpt: Ed Pagliai has had great success since joining our team two months ago.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/Q-+How+Has+Ed+Pagliais+Experience+Been+Since+He+Joined+Our+Team_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
