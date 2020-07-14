@@ -13,7 +13,7 @@ youtube_alternate_image:
 youtube_code: nxv7JVzp_Ds
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
 
 <p style="text-align: center;"><em>Ed Pagliai has had great success since joining our team two months ago.</em></p>
 
