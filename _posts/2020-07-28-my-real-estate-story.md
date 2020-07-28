@@ -4,7 +4,8 @@ title: My Real Estate Story
 date: 2020-07-28 15:44:50
 tags:
 excerpt: Here’s a quick retelling of my journey in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/My+Real+Estate+Story.mp4
 pullquote: >-
   I don’t want to have the biggest brokerage, but I do want to have the best
   agents.
@@ -17,7 +18,8 @@ youtube_code: rT0UhejdHso
 
 {% include youtube.html %}
 
-Here’s a quick retelling of my journey in real estate.
+ <p style="text-align: center;"><em>
+Here’s a quick retelling of my journey in real estate.</em></p>
 
 I started full-time in real estate in 2007 while also attending college. I did nine transactions my first year at a brokerage where they trained me how to do the paperwork properly, but I struggled with finding clients and finding sales. **The training wasn’t there for what I really needed and it took me quite a few years to figure that out.**
 
