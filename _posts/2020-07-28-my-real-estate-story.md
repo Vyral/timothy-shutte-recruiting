@@ -31,8 +31,8 @@ I gave myself one more year (2011) to either succeed or go find another job. Tha
 
 I ended up joining a small brokerage, continued to work on my business, then was able to open my own Exit Realty franchise in 2013. **Seven years later, we’re still here, still growing, and have the systems in place for new agents that I was never taught when I was starting out.**
 
-If I wouldn’t have hired my coach and had that change in my lifestyle, I wouldn’t be where I am today. I would more than likely be climbing the corporate ladder somewhere hoping to succeed. I’ve been able to create my own destiny on this path, continue to push for what I want, and hit the goals that I set for myself when I was younger so that I can live the life that I want to.
+If I wouldn’t have hired my coach and had that change in my lifestyle, I wouldn’t be where I am today. I would more than likely be climbing the corporate ladder somewhere hoping to succeed. I’ve been able to create my own destiny on this path, continue to push for what I want, and hit the goals that I set for myself when I was younger so that I can live the life I want to.
 
 **My main goal these days is to help our agents grow both internally and externally.** I don’t want to have the biggest brokerage or the smallest brokerage, but I want to have the best agents who are driven to succeed. As a group, we love what we’re doing and where we're going, and we’re going to continue to build on that.
 
-If you have any questions about our brokerage or about the real estate business in general, don’t hesitate to reach out via phone or email.. I look forward to hearing from you soon.
+If you have any questions about our brokerage or the real estate business in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
