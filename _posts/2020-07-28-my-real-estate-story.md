@@ -21,11 +21,11 @@ youtube_code: rT0UhejdHso
  <p style="text-align: center;"><em>
 Here’s a quick retelling of my journey in real estate.</em></p>
 
-I started full-time in real estate in 2007 while also attending college. I did nine transactions my first year at a brokerage where they trained me how to do the paperwork properly, but I struggled with finding clients and finding sales. **The training wasn’t there for what I really needed and it took me quite a few years to figure that out.**
+I started full-time in real estate in 2007 while also attending college. I did nine transactions during my first year at a brokerage where they trained me how to do the paperwork properly, but I struggled with finding clients and sales. **The training wasn’t there for what I really needed and it took me quite a few years to figure that out.**
 
 I ended up hiring a real estate coach in the fall of 2010 right after the first-time homebuyer $8,000 tax credit was introduced. I ended up selling 25 properties in the first six months of the year and spent that money thinking I would sell 50. That’s not how the business goes, however, and I didn’t sell another house for the rest of the year.&nbsp;
 
-I gave myself one more year (2011) to either succeed or go find another job. That’s when the coaching really paid off and I hired an assistant in 2011, doubled my business, and then kept doubling it for another two years.
+I gave myself one more year (2011) to either succeed or go find another job. That’s when the coaching paid, off and I hired an assistant in 2011, doubled my business, and then kept doubling it for another two years.
 
 {% include pullquote.html %}
 
