@@ -15,7 +15,8 @@ youtube_code:
 
 {% include youtube.html %} {% include full-post-cta.html %}
 
-*Mike Kelly and I are here to discuss the finer points of home inspections.*
+<center><em>Mike Kelly and I are here to discuss the finer points of home inspections.</em></center>
+&nbsp;
 
 Today I’m delighted to be joined by Mike Kelly, a home inspector that I’ve worked with for over a decade. There’s a reason I always come back to Mike, and it’s because he understands homes, how to identify issues, and what exactly needs to be looked at during a home inspection.
 
