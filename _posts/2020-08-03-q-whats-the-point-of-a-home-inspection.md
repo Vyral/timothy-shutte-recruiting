@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s the Point of a Home Inspection?
+title: 'Q: What’s the Point of a Home Inspection?'
 date: 2020-08-03 21:12:00
 tags:
 excerpt: Mike Kelly and I are here to discuss the finer points of home inspections.
