@@ -13,13 +13,11 @@ youtube_alternate_image: /uploads/q--why-do-home-inspections-matter-ft--mike-kel
 youtube_code: Y0IIfb-wb-o
 ---
 
-{% include youtube.html %} {% include full-post-cta.html %}
+{% include youtube.html %} 
 
 <center><em>Mike Kelly and I are here to discuss the finer points of home inspections.</em></center>
 
-&nbsp;
-
-Today I’m delighted to be joined by Mike Kelly, a home inspector that I’ve worked with for over a decade. There’s a reason I always come back to Mike, and it’s because he understands homes, how to identify issues, and what exactly needs to be looked at during a home inspection.
+Today I’m delighted to be joined by Mike Kelly, a home inspector whom I’ve worked with for over a decade. There’s a reason I always come back to Mike, and it’s because he understands homes, how to identify issues, and what exactly needs to be looked at during a home inspection.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
@@ -34,3 +32,6 @@ Today I’m delighted to be joined by Mike Kelly, a home inspector that I’ve w
 7:10- Wrapping things up
 
 If you have any questions for me about home inspections or anything else related to real estate, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
+
+&nbsp;
+{% include full-post-cta.html %}
