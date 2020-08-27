@@ -19,7 +19,7 @@ youtube_code: qK5UwFz5GdA
 
 {% include youtube.html %}
 
-*Today I’m joined by Realtor Dani Yegge to discuss why she got into the real estate business.*
+<p style="text-align: center;"><em>Today I’m joined by Realtor Dani Yegge to discuss why she got into the real estate business.</em></p>
 
 Today’s guest Dani Yegge has been a Realtor for a year and a half, but I wanted to sit down with her for a conversation about what led her to a career in this industry.
 
