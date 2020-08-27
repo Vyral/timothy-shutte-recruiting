@@ -3,6 +3,7 @@ layout: post
 title: 'Q: Why Did This Realtor Join Our Team?'
 date: 2020-08-27 17:52:00
 tags:
+  - Real Estate Agents
 excerpt: >-
   Today I’m joined by Realtor Dani Yegge to discuss why she got into the real
   estate business.
