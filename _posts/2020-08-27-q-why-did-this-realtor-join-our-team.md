@@ -18,7 +18,7 @@ youtube_code: qK5UwFz5GdA
 
 {% include youtube.html %}
 
-Today I’m joined by Realtor Dani Yegge to discuss why she got into the real estate business.
+<p style="text-align: center;"><em>Today I’m joined by Realtor Dani Yegge to discuss why she got into the real estate business.</em></p>
 
 {% include pullquote.html %}
 
