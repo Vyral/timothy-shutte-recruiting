@@ -18,7 +18,7 @@ youtube_code: nADVAu5P-a0
 
 {% include youtube.html %}
 
-Here’s what you need to remember if you want to win a bidding war.
+<p style="text-align: center;"><em>Here’s what you need to remember if you want to win a bidding war.</em></p>
 
 In our current real estate market, bidding wars are common in the price point below $250,000. If you’re a buyer, how do you win a bidding war in this range? Besides having the desire to win, there are several points to focus on to make your offer the best it can be, including **price, inspections, the closing date, and contract terms**.
 
