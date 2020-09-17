@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Q: What Are My Tips For Winning a Bidding War?'
-date: 2020-09-17 20:30:03
+date: 2020-09-17 20:30:00
 tags:
-  - Home Buyer Tips
   - Home Seller Tips
+  - Home Buyer Tips
 excerpt: Here’s what you need to remember if you want to win a bidding war.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/Q-+What+Are+My+Tips+For+Winning+a+Bidding+War_.mp4
 pullquote: >-
   Make sure you’re comfortable with how you write your offer and what the terms
   are.
