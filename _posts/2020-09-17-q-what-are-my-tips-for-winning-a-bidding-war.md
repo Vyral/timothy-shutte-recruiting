@@ -3,8 +3,6 @@ layout: post
 title: 'Q: What Are My Tips For Winning a Bidding War?'
 date: 2020-09-17 20:30:00
 tags:
-  - Home Seller Tips
-  - Home Buyer Tips
 excerpt: Here’s what you need to remember if you want to win a bidding war.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/Q-+What+Are+My+Tips+For+Winning+a+Bidding+War_.mp4
@@ -18,9 +16,9 @@ youtube_alternate_image:
 youtube_code: nADVAu5P-a0
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you need to remember if you want to win a bidding war.</em></p>
+Here’s what you need to remember if you want to win a bidding war.
 
 In our current real estate market, bidding wars are common in the price point below $250,000. If you’re a buyer, how do you win a bidding war in this range? Besides having the desire to win, there are several points to focus on to make your offer the best it can be, including **price, inspections, the closing date, and contract terms**.
 
