@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Are You Struggling With Your Real Estate Business?'
-date: 2020-09-08 18:13:00
+date: 2020-09-22 18:13:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: vAjrwldoOW0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Are you in the real estate industry but aren’t sure what to do? Let’s have a strategy call.</em></p>
+*Are you in the real estate industry but aren’t sure what to do? Let’s have a strategy call.*
 
 My name is Timothy Schutte with Exit Realty Capital City here in Des Moines, and my team sells over 100 homes a year. I know how stressful it is to have inconsistent income and the general uncertainty we all have as agents. What should you do for marketing? Who should you call for your next listing? How do you handle a difficult transaction? How do you win the next listing presentation? It’s likely that your broker can answer some of those questions when it comes to not getting sued, but when it comes to making the right marketing decisions, there’s not as much help.
 
