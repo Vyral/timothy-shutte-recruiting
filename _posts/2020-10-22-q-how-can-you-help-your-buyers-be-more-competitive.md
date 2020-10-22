@@ -18,7 +18,7 @@ youtube_code: nSNJVm6vF50
 
 {% include youtube.html %}
 
-Here’s what to do if you find yourself in a bidding war for a home.
+<p style="text-align: center;"><em>Here’s what to do if you find yourself in a bidding war for a home.</em></p>
 
 Ours is a very competitive market, and many homebuyers today will find they have quite a bit of competition due to our low levels of inventory. That means buyers will have to do all they can to make their individual offers stand out to the seller if they want to win the home they’re after.
 
