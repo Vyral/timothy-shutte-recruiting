@@ -3,7 +3,6 @@ layout: post
 title: 'Q: How Can You Help Your Buyers Be More Competitive?'
 date: 2020-10-22 18:21:00
 tags:
-  - Home Buying Tips
 excerpt: Here’s what to do if you find yourself in a bidding war for a home.
 enclosure:
 pullquote: >-
@@ -20,7 +19,7 @@ youtube_code: nSNJVm6vF50
 
 *Here’s what to do if you find yourself in a bidding war for a home.*
 
-Ours is a very competitive market, and many homebuyers today will find they have quite a bit of competition due to our low levels of inventory. That means buyers will have to do all they can to make their individual offers stand out to the seller if they want to win the home they’re after.
+Ours is a very competitive market, and many homebuyers today will find they have quite a bit of competition due to our low levels of inventory. That means buyers will have to do all they can to make their offers stand out to the seller if they want to win the home they’re after.
 
 One way to do that is to include an **escalator clause**. If you choose to incorporate an escalator clause into your client’s offer, you need to first educate them about how it works. In short, it’s a clause in the contract that allows your buyer to outbid the next highest bid by a certain amount. Of course, buyers probably don’t want to overbid their competition by, say $20,000, which is why escalator clauses also include a cap amount. This is one of the strongest tools we have in our arsenal to help our buyers overcome their competition. **Cash offers are also a strong way to grab a seller’s attention.**
 
