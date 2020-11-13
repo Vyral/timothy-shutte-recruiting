@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Help Your Buyers Be More Competitive?'
-date: 2020-11-13 09:00:00
+date: 2020-11-12 09:00:00
 tags:
   - Listing Presentation
 excerpt: Here’s what to do if you find yourself in a bidding war for a home.
