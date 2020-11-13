@@ -1,10 +1,13 @@
 ---
 layout: post
 title: 'Q: How Can You Help Your Buyers Be More Competitive?'
-date: 2020-10-22 18:21:00
+date: 2020-11-13 18:21:00
 tags:
+  - Listing Presentation
+  - Agent Tips
 excerpt: Here’s what to do if you find yourself in a bidding war for a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/Q_+How+Can+You+Help+Your+Buyers+Be+More+Competitive_.mp4
 pullquote: >-
   An escalator clause is one of the strongest tools we have in our arsenal to
   help our buyers overcome their competition.
@@ -17,7 +20,7 @@ youtube_code: nSNJVm6vF50
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what to do if you find yourself in a bidding war for a home.</em></p>
+*Here’s what to do if you find yourself in a bidding war for a home.*
 
 Ours is a very competitive market, and many homebuyers today will find they have quite a bit of competition due to our low levels of inventory. That means buyers will have to do all they can to make their offers stand out to the seller if they want to win the home they’re after.
 
