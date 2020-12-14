@@ -16,7 +16,7 @@ youtube_code: qjFBs4ysrX8
 
 {% include youtube.html %}
 
-Anne Ades joined me to talk about her first two months on our team.
+<p style="text-align: center;"><em>Anne Ades joined me to talk about her first two months on our team.</em></p>
 
 Today I’m joined by Anne Ades, a new agent with Exit First Realty who just got licensed a mere two months ago. **She chose to join Exit First Realty based on her experience working with us as a client** and also getting referred to our team by another agent. She knew she was joining a team that would help her grow her business over time.
 
