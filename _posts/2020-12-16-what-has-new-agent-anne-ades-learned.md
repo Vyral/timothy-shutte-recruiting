@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Has New Agent Anne Ades Learned?
-date: 2020-12-16 09:00:00
+date: 2020-12-17 09:00:00
 tags:
   - Our Agents
 excerpt: Anne Ades joined me to talk about her first two months on our team.
