@@ -5,7 +5,7 @@ date: 2020-12-17 09:00:00
 tags:
   - Our Agents
 excerpt: Anne Ades joined me to talk about her first two months on our team.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/What+Has+New+Agent+Anne+Ades+Learned_.mp4
 pullquote: 'Two months in, and two deals nearing the finish line.'
 enclosure_type: video/mp4
 enclosure_time:
