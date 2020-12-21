@@ -15,7 +15,7 @@ youtube_code: ddcOgw4gN6s
 
 {% include youtube.html %}
 
-Here’s everything you need to know about my twice-monthly newsletter.
+<p style="text-align: center;"><em>Here’s everything you need to know about my twice-monthly newsletter.</em></p>
 
 Hey there fellow Des Moines agent,&nbsp;
 
