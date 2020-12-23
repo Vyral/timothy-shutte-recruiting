@@ -14,7 +14,7 @@ youtube_alternate_image:
 youtube_code: nWZxDMsD0lI
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
 
 <p style="text-align: center;"><em>Here’s why we’re very excited about the new year at EXIT Realty.</em></p>
 
