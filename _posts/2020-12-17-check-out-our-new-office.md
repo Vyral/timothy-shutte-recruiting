@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why We’re Eager for 2021
-date: 2020-12-17 21:29:39
+title: Check Out Our New Office...
+date: 2020-12-17 21:29:00
 tags:
   - EXIT Realty Updates
 excerpt: Here’s why we’re very excited about the new year at EXIT Realty.
@@ -16,7 +16,7 @@ youtube_code: nWZxDMsD0lI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why we’re very excited about the new year at EXIT Realty.</em></p>
+*Here’s why we’re very excited about the new year at EXIT Realty.*
 
 2020 is drawing to a close, and today I’m standing inside one of the things that makes us very excited for next year. The unfinished building you see behind me in the video above is the new EXIT Realty office on the corner of 70th and Hickman. **Our new office will include a shared lounge, coffee bar, and training room**; it’ll be a modern facility with modern amenities. We love this space and what we’ll be able to offer our clients from it.&nbsp;
 
