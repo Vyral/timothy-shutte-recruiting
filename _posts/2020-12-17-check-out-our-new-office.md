@@ -16,7 +16,7 @@ youtube_code: nWZxDMsD0lI
 
 {% include youtube.html %}
 
-*Here’s why we’re very excited about the new year at EXIT Realty.*
+<center><em>Here’s why we’re very excited about the new year at EXIT Realty.</em></center>
 
 2020 is drawing to a close, and today I’m standing inside one of the things that makes us very excited for next year. The unfinished building you see behind me in the video above is the new EXIT Realty office on the corner of 70th and Hickman. **Our new office will include a shared lounge, coffee bar, and training room**; it’ll be a modern facility with modern amenities. We love this space and what we’ll be able to offer our clients from it.&nbsp;
 
