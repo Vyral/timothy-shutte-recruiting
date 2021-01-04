@@ -5,7 +5,7 @@ date: 2020-12-17 21:29:00
 tags:
   - EXIT Realty Updates
 excerpt: Here’s why we’re very excited about the new year at EXIT Realty.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/Why+We%E2%80%99re+Eager+for+2021.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
