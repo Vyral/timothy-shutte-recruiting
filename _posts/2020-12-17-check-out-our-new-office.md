@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check Out Our New Office...
-date: 2020-12-17 21:29:00
+date: 2021-1-4 09:30:00
 tags:
   - EXIT Realty Updates
 excerpt: Here’s why we’re very excited about the new year at EXIT Realty.
