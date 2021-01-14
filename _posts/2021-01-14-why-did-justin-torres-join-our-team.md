@@ -18,7 +18,7 @@ youtube_code: 9zITk9BAXC4
 
 {% include youtube.html %}
 
-Here’s why new agent Justin Torres joined our team at EXIT Realty.
+<p style="text-align: center;"><em>Here’s why new agent Justin Torres joined our team at EXIT Realty.</em></p>
 
 Justin Torres previously worked at an EXIT Realty group in Colorado Springs before he came back to the Des Moines Metro area, where he bounced around to a few different brokerages. Recently, he came back to us, but what brought him here?
 
