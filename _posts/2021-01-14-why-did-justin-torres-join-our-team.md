@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Did Justin Torres Join Our Team?
-date: 2021-01-14 00:00:00
+date: 2021-01-25 00:00:00
 tags:
   - Agent Spotlight
 excerpt: Here’s why new agent Justin Torres joined our team at EXIT Realty.
