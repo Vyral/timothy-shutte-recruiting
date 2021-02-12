@@ -17,7 +17,7 @@ youtube_code: ZmephRdNN6M
 
 {% include youtube.html %}
 
-*Here’s how you should handle fierce competition against your listing.*
+<p style="text-align: center;"><em>Here’s how you should handle fierce competition against your listing.</em></p>
 
 We recently listed a townhome in a townhome community for $230,000, and around the complex and neighborhood, multiple properties were selling at that price point. About two weeks after we listed ours, two listings that were very similar to ours went on the market for $210,00. What do you do with that type of competition?
 
