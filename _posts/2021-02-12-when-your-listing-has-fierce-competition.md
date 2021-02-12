@@ -1,11 +1,12 @@
 ---
 layout: post
 title: When Your Listing Has Fierce Competition
-date: 2021-02-03 09:00:00
+date: 2021-02-12 09:00:00
 tags:
   - Listing Presentation
 excerpt: Here’s how you should handle fierce competition against your listing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/When+Your+Listing+Has+Fierce+Competition.mp4
 pullquote: What you do will always depend on the particular situation.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: ZmephRdNN6M
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how you should handle fierce competition against your listing.</em></p>
+*Here’s how you should handle fierce competition against your listing.*
 
 We recently listed a townhome in a townhome community for $230,000, and around the complex and neighborhood, multiple properties were selling at that price point. About two weeks after we listed ours, two listings that were very similar to ours went on the market for $210,00. What do you do with that type of competition?
 
