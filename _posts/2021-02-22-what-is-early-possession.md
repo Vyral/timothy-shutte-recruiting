@@ -17,8 +17,6 @@ youtube_code: MAgkupolhuk
 
 <p style="text-align: center;"><em>Here are the benefits and drawbacks to early possession in a transaction.</em></p>
 
-{% include full-post-cta.html %}
-
 What does early possession mean, and what are the benefits and pitfalls of it?&nbsp;
 
 One of the great things about early possession is that your clients can move into the home before the loan is finalized or it can ease the stress if they have multiple closings in one day. It also means **the seller may receive some rent that can help with their carrying costs.**
@@ -38,3 +36,6 @@ Sometimes builders have short-term housing people can rent if their home isn’t
 Remember that **you can let the deal fall apart if it needs to;** you don’t have to always keep it together when it comes to possession because there are many risks involved.&nbsp;
 
 If you have more questions about early possession or other real estate matters, call or visit my website. I would love to help you.
+
+{% include full-post-cta.html %}
+
