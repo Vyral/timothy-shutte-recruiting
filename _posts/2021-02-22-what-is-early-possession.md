@@ -15,7 +15,7 @@ youtube_code: MAgkupolhuk
 
 {% include youtube.html %}
 
-&nbsp;Here are the benefits and drawbacks to early possession in a transaction.
+<p style="text-align: center;"><em>Here are the benefits and drawbacks to early possession in a transaction.</em></p>
 
 {% include full-post-cta.html %}
 
