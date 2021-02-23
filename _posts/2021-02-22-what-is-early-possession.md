@@ -15,7 +15,7 @@ youtube_code: MAgkupolhuk
 
 {% include youtube.html %}
 
-*Here are the benefits and drawbacks to early possession in a transaction.*
+<p style="text-align: center;"><em>Here are the benefits and drawbacks to early possession in a transaction.</em></p>
 
 What does early possession mean, and what are the benefits and pitfalls of it?&nbsp;
 
