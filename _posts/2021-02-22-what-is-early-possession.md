@@ -15,13 +15,13 @@ youtube_code: MAgkupolhuk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the benefits and drawbacks to early possession in a transaction.</em></p>
+*Here are the benefits and drawbacks to early possession in a transaction.*
 
 What does early possession mean, and what are the benefits and pitfalls of it?&nbsp;
 
 One of the great things about early possession is that your clients can move into the home before the loan is finalized or it can ease the stress if they have multiple closings in one day. It also means **the seller may receive some rent that can help with their carrying costs.**
 
-However, there are also some drawbacks to early possession. People can have buyer’s remorse; the buyer moves in, then finds out they don’t like the house as much as they thought. They may decide not to pay the seller rent because they’re already in the home and the seller is in a bind because they have to pay that mortgage and want the transaction to close. The buyer could also find issues with the house or cause damage. Additionally, **there’s the possibility that the buyer doesn’t get their loan, so they aren’t able to buy the property.&nbsp;**
+However, there are also some drawbacks to early possession. People can have buyer’s remorse; the buyer moves in, then finds out they don’t like the house as much as they thought. They may decide not to pay the seller rent because they’re already in the home and the seller is in a bind because they have to pay that mortgage and want the transaction to close. The buyer could also find issues with the house or cause damage. Additionally, **there’s the possibility that the buyer doesn't get their loan and isn't able to buy the property.**
 
 These problems can accumulate and add many expenses to the seller. So the risks are high. Many sellers and builders refuse to allow early possession.
 
@@ -38,4 +38,3 @@ Remember that **you can let the deal fall apart if it needs to;** you don’t ha
 If you have more questions about early possession or other real estate matters, call or visit my website. I would love to help you.
 
 {% include full-post-cta.html %}
-
