@@ -1,10 +1,11 @@
 ---
 layout: post
 title: What Is Early Possession?
-date: 2021-02-22 09:00:00
+date: 2021-03-17 09:00:00
 tags:
 excerpt: Here are the benefits and drawbacks to early possession in a transaction.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/What+Is+Early+Possession_.mp4
 pullquote: Many sellers and builders refuse to allow early possession.
 enclosure_type: video/mp4
 enclosure_time:
@@ -12,10 +13,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: NAtBEisa5EU
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the benefits and drawbacks to early possession in a transaction.</em></p>
+*Here are the benefits and drawbacks to early possession in a transaction.*
 
 What does early possession mean, and what are the benefits and pitfalls of it?&nbsp;
 
