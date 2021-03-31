@@ -18,7 +18,7 @@ youtube_code: PIZ_4YnXeUg
 ---
 {% include youtube.html %}
 
-*Do you know everything you need to know about how to clear title?*
+<p style="text-align: center;"><em>Do you know everything you need to know about how to clear title?</em></p>
 
 When it comes to the title process, what should agents know about the abstract and title opinion?
 
