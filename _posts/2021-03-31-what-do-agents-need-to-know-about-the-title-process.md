@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What Do Agents Need to Know About the Title Process?
-date: 2020-11-24 22:51:00
+date: 2021-03-31 09:00:00
 tags:
   - Agent Tips
 excerpt: Do you know everything you need to know about how to clear title?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Schutte/What+Do+Agents+Need+to+Know+About+the+Title+Process_.mp4
 pullquote: >-
   I always advise doing your research in terms of what a title opinion looks
   like and what needs to happen to clear that title.
@@ -15,10 +16,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: PIZ_4YnXeUg
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Do you know everything you need to know about how to clear title?</em></p>
+*Do you know everything you need to know about how to clear title?*
 
 When it comes to the title process, what should agents know about the abstract and title opinion?
 
