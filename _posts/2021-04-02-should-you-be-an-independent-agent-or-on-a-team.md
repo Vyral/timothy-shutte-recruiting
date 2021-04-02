@@ -20,9 +20,11 @@ youtube_code: PeytgAjsKG8
 
 Should you be on a real estate team or an independent agent? When I first started in the industry in 2007, there wasn’t much of a team model. Though the team model continually evolves, you get three essential things from working with a team:
 
-1. **Leads.** The leads you get from processes already in place are crucial.
-2. **Accountability.** Accountability is vital for many personality types, and sometimes a team is more suited to certain personality types than others
-3. **More hands-on training.** You’ll have daily huddles, accountability meetings, and do role-play.
+**1\. Leads.** The leads you get from processes already in place are crucial.
+
+**2\. Accountability.** Accountability is vital for many personality types, and sometimes a team is more suited to certain personality types than others
+
+**3\. More hands-on training.** You’ll have daily huddles, accountability meetings, and do role-play.
 
 {% include pullquote.html %}
 
