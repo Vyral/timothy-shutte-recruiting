@@ -24,9 +24,9 @@ Should you be on a real estate team or an independent agent? When I first starte
 
 **2\. Accountability.** Accountability is vital for many personality types, and sometimes a team is more suited to certain personality types than others.
 
-{% include pullquote.html %}
-
 **3\. More hands-on training.** You’ll have daily huddles, accountability meetings, and do role-play.
+
+{% include pullquote.html %}
 
 Despite all those benefits, there is one disadvantage to working on a team: You often receive a lower commission split per transaction. However, as I’ve frequently seen, you may net the same amount or more money on a team because you have more opportunities to do more transactions.&nbsp;
 
