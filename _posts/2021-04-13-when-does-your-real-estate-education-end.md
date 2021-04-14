@@ -25,7 +25,7 @@ Legally, you’re required to complete 36 hours’ worth of education every two 
 
 {% include pullquote.html %}
 
-I recently ran into an appraiser with 35 years of experience in the business, and when I asked him how it’s going in today’s market, he said he didn’t even feel like he knew what he was doing because home prices are so high. He’s struggling to valuate homes because of how much has changed. In my opinion, the moment you receive your real estate license is when your education starts. There’s so much more to learn if you want to become a proficient Realtor in our marketplace.&nbsp;
+I recently ran into an appraiser with 35 years of experience in the business, and when I asked him how it’s going in today’s market, he said he didn’t even feel like he knew what he was doing because home prices are so high. He’s struggling to evaluate homes because of how much has changed. In my opinion, the moment you receive your real estate license is when your education starts. There’s so much more to learn if you want to become a proficient Realtor in our marketplace.&nbsp;
 
 If you’d like to know about how to properly educate yourself as a Realtor or have any questions for me, feel free to call or email me anytime. I’d love to speak with you.
 
