@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Should You Be an Independent Agent or on a Team?
-date: 2021-04-02 09:00:00
+date: 2021-04-14 09:00:00
 tags:
+  - Transaction Management
+  - Lead Generation
 excerpt: Should you join a real estate team or be an independent agent?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/Should+You+Be+an+Independent+Agent+or+on+a+Team_.mp4
 pullquote: >-
   You may net the same amount or more money on a team because you have more
   opportunities.
