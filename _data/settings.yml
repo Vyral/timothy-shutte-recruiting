@@ -38,6 +38,9 @@ client:
   email: timothy@solddesmoines.com
   url: https://sold.exitrealtycc.com/blog/
 
+forms:
+  sitekey: 6LfRQ6saAAAAAJmdKReafxqbmrSUK0jT3h2x9RP0
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
