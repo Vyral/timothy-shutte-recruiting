@@ -1,13 +1,14 @@
 ---
 layout: post
 title: When Does Your Real Estate Education End?
-date: 2021-04-13 09:00:00
+date: 2021-04-28 09:00:00
 tags:
   - Lead Conversion
   - Lead Generation
   - Transaction Management
 excerpt: 'As a Realtor, you should never stop educating yourself.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Timothy+Schutte/When+Does+Your+Real+Estate+Education+End_.mp4
 pullquote: The moment you receive your real estate license is when your education starts.
 enclosure_type: video/mp4
 enclosure_time:
