@@ -30,7 +30,7 @@ At the end of the day, though, it all boils down to what the client wants, so yo
 
 When it comes to value propositions on the buyer side, they often think of us Realtors as free. That’s mostly true, but at the same time, you have to secure these clients by establishing relationships that add more value based on you being knowledgeable and hearing their needs.&nbsp;
 
-The bottom line is that in my experience, **the best way to add value to your clients is by being knowledgeable and meeting the needs of their purchase or sale.**&nbsp;
+The bottom line is:&nbsp;**The best way to add value to your clients is by being knowledgeable and meeting the needs of their purchase or sale.**&nbsp;
 
 If you’d like to talk more about adding value to your clients or have any questions at all, feel free to reach out to me. I’d love to hear from you.
 
