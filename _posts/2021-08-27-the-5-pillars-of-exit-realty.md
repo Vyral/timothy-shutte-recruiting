@@ -17,7 +17,7 @@ youtube_code: gih8iYTdsVc
 
 {% include excerpt.html %}
 
-Today we're talking about the five pillars of Exit Realty and what they mean to us. We believe that if we focus on the Realtor rather than just the numbers, we can grow organically by teaching and training Realtors to be able to produce business and meet their income goals. We do that in five ways.
+Today we're talking about the five pillars of Exit Realty and what they mean to us. We believe that if we focus on the Realtor rather than just the numbers, we can grow organically by teaching and training Realtors to produce business and meet their income goals. We do that in five ways.
 
 **1\. Training.** We train you to be the best agent we can by giving you mentorship opportunities from those who’ve been in the business longer.
 
@@ -29,6 +29,6 @@ Today we're talking about the five pillars of Exit Realty and what they mean to 
 
 **5\. Financial security.** At Exit Realty, we have a unique residual model where you can earn up to 10% of any Realtor that you sponsor in GCI, up to $10,000 per year.
 
-We believe these five pillars are very important in growing our agents organically. If you have any questions, please feel free to reach out to us.
+We believe these five pillars are very important in growing our agents organically. If you have any questions, please feel free to reach out to us via phone or email.
 
 {% include full-post-cta.html %}
