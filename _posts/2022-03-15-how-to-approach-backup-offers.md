@@ -18,11 +18,11 @@ youtube_code: WpAdRKAWqeg
 
 {% include excerpt.html %}
 
-Today we want to talk about backup offers and share an interesting situation we had recently with one. If you didn’t know, backup offers are offers placed after the first offer has been accepted. They’re held as another option in case the first contract falls through.&nbsp;
+Today we want to talk about backup offers and share an interesting situation we had recently with one. In case you don't know, backup offers are offers placed after the first one has been accepted. They’re held as another option in case the first contract falls through.&nbsp;
 
 **In our situation, the backup offer had cleaner terms and a higher price.** Our client was ecstatic, and we liked the idea of having a backup offer, too. The home was a bit older, so it could help if something went wrong with the inspection.
 
-This issue is about disclosure; what do you need to tell the first buyer? At the end of the day, we are supposed to protect our clients. **From a disclosure standpoint, I would say it is material.** It’s important to let them know that we have a backup offer if the home doesn’t make it through the inspection.
+This issue is about disclosure; what do you need to tell the first buyer? At the end of the day, we are supposed to protect our clients. **Disclosing backup offers to the buyer is necessary.** It’s important to let them know that we have a backup offer if the home doesn’t make it through the inspection.
 
 {% include pullquote.html %}
 
@@ -30,7 +30,7 @@ Once we received that second offer, the seller’s mindset changed. Not only did
 
 **The first deal fell apart, but we had the backup offer in place to protect our client.** With the market that we are in, we will probably see more backup offers, so we should prepare and coach our clients. If you’re buying, it might be a good idea to put in a backup offer.&nbsp;
 
-In our experience, the first offer walks away only about 10% to 15% of the time, so it doesn’t happen too often. If you’re a listing agent, we highly recommend taking a backup offer or asking agents if they would be a backup offer because it helps protect your seller.
+In our experience, the first offer walks away only about 10% to 15% of the time, so it doesn’t happen too often. If you’re a listing agent, we highly recommend taking a backup offer or asking buyer's agents if they don't mind submitting a backup offer.
 
 If you have any questions about this, please call or email us. We would love to help.
 
